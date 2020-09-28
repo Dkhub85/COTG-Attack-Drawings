@@ -1,3 +1,16 @@
+// ==UserScript==
+// @name Cotg attack drawings
+// @namespace https://github.com/Dkhub85/COTG-Dfunky
+// @version 2.0.0
+// @description Cotg attack drawings
+// @author Dhruv
+// @match https://*.crownofthegods.com
+// @include https://*.crownofthegods.com/?s=*
+// @grant none
+// @updateURL https://raw.githubusercontent.com/DKhub85/COTG-Attack-Drawings/master/att_def_lines.user.js
+// @downloadURL https://raw.githubusercontent.com/DKhub85/COTG-Attack-Drawings/master/att_def_lines.user.js
+// ==/UserScript==
+
 (function xxx() {
     'use strict';
     $(document).ready(function() {
