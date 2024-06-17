@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name Cotg attack drawings
-// @namespace https://github.com/Dkhub85/COTG-Dfunky
+// @namespace https://github.com/Dkhub85/COTG-Attack-Drawings
 // @version 2.0.0
 // @description Cotg attack drawings
 // @author Dhruv
